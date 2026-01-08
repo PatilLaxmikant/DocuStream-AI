@@ -6,4 +6,4 @@ __pycache__/
 venv/
 *.log
 .DS_Store
-auth_config.yaml
+
