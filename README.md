@@ -1,6 +1,6 @@
 # 📚 DocuStream AI
 
-**DocuStream AI** is a production-ready Retrieval-Augmented Generation (RAG) application built with **Google Gemini**, **Qdrant Cloud**, and **Streamlit**. It allows users to upload PDF documents and chat with them using advanced AI, featuring real-time streaming responses, source citations, and enterprise-grade security.
+**DocuStream AI** is a Retrieval-Augmented Generation (RAG) application built with **Google Gemini**, **Qdrant Cloud**, and **Streamlit**. It allows users to upload PDF documents and chat with them using advanced AI, featuring real-time streaming responses, source citations, and enterprise-grade security.
 
 ## 🚀 Features
 
@@ -59,4 +59,5 @@ streamlit run streamlit_app.py
 ## https://docustream-ai.streamlit.app/
 ---
 *Built with ❤️ by DocuStream AI Team*
+
 
