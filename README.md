@@ -56,5 +56,7 @@ streamlit run streamlit_app.py
 3.  Deploy the app pointing to `streamlit_app.py`.
 4.  Add your secrets (API Keys) in the Streamlit Cloud dashboard under **Advanced Settings**.
 
+## https://docustream-ai.streamlit.app/
 ---
 *Built with ❤️ by DocuStream AI Team*
+
